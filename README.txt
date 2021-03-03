@@ -2,7 +2,7 @@ Keterangan Proyek
 
 System Requirment :
 - php
-- MySQL
+- MySQL atau postreSQL
 - HTTP Apache
 - Redis
 - Python
